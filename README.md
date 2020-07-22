@@ -1,5 +1,5 @@
 ### Hola, soy David, creador de Codegenial. 👋
-![Banner](https://user-images.githubusercontent.com/52186955/88141489-52659a00-cbb9-11ea-8975-7bbab5845163.jpg)
+![banner2](https://user-images.githubusercontent.com/52186955/88142968-0ec05f80-cbbc-11ea-90c3-de8b2b54a7e9.jpg)
 
 Puedes encontrarme en🌐:
 - [Twitter](https://twitter.com/codegenial)

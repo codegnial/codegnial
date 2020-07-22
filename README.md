@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hola, soy David, creador de Codegenial. 👋
+![Banner](https://user-images.githubusercontent.com/52186955/88141489-52659a00-cbb9-11ea-8975-7bbab5845163.jpg)
 
+Puedes encontrarme en🌐:
+- [Twitter](https://twitter.com/codegenial)
+- [Facebook](https://facebook.com/codegenial)
+- [Instagram](https://instagram.com/codegenial)
+- [Linkedin](https://youtube.com/channel/UCpxkVtdfKZk7p3GZUQvkfTA/featured)
+- [YouTube](https://youtube.com/codegenial)
+- [Codepen](https://codepen.com/codegenial)
 <!--
 **codegenial/codegenial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

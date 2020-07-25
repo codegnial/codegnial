@@ -1,4 +1,4 @@
-### Hola, soy David, creador de Codegenial. 👋
+### Hola <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, soy David, creador de Codegenial.
 ![banner2](https://user-images.githubusercontent.com/52186955/88142968-0ec05f80-cbbc-11ea-90c3-de8b2b54a7e9.jpg)
 
 Puedes encontrarme en🌐:

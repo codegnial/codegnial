@@ -4,7 +4,7 @@
 Puedes encontrarme en🌐:
 - [Twitter](https://twitter.com/codegenial)
 - [Facebook](https://facebook.com/codegenial)
-- [Instagram](https://instagram.com/codegenial)
+- [Instagram](https://instagram.com/marketianodigital)
 - [Linkedin](https://youtube.com/channel/UCpxkVtdfKZk7p3GZUQvkfTA/featured)
 - [YouTube](https://youtube.com/codegenial)
 - [Codepen](https://codepen.com/codegenial)

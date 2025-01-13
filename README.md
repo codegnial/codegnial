@@ -1,13 +1,9 @@
-### Hola <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, soy David, creador de Codegenial.
-![banner2](https://user-images.githubusercontent.com/52186955/88142968-0ec05f80-cbbc-11ea-90c3-de8b2b54a7e9.jpg)
+<div aling="center"><h1 aling="center">Hola, soy David Mendoza🖐</h1></div>
+
+![banner2](https://github.com/codegnial/codegnial/blob/master/Readme-Profile.jpg?raw=true)
 
 Puedes encontrarme en🌐:
-- [Twitter](https://twitter.com/codegenial)
-- [Facebook](https://facebook.com/codegenial)
-- [Instagram](https://instagram.com/marketianodigital)
-- [Linkedin](https://youtube.com/channel/UCpxkVtdfKZk7p3GZUQvkfTA/featured)
-- [YouTube](https://youtube.com/codegenial)
-- [Codepen](https://codepen.com/codegenial)
+- [Twitter](https://twitter.com/codegnial)
 <!--
 **codegenial/codegenial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
